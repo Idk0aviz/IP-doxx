@@ -60,7 +60,7 @@ ${CYAN}       `^Yb.,  `^^Y8888888888888888888888P^^'  ,.dP^'
 ${CYAN}         `^Y8b..   ``^^^Y88888888P^^^'    ..d8P^'
 ${CYAN}              `^Y888bo.,            ,.od888P^'
 ${CYAN}                   "`^^Y888888888888P^^'"
-        EOF
+	EOF
 }
 
 function process(){
@@ -137,3 +137,6 @@ if [ $parameter_counter -eq 0 ]; then
             process $url $time
         fi  
 fi
+© 2022 GitHub, Inc.
+Terms
+Privacy
