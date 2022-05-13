@@ -13,7 +13,7 @@ Clonar el repositorio y cambiar los permisos
 ```markdown
 sudo apt install html2text
 git clone https://github.com/Alcatraz2033/IP-Dox.git
-cd IP-Dox
+cd IP-doxx
 chmod +x ip_doxx.sh
 sudo ./ip_doxx.sh
 
